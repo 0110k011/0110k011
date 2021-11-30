@@ -6,11 +6,11 @@
 You can click the Preview link to take a look at your changes.
 --->
 <div>
-  <div>
-    <img align="right" src="https://profile-counter.glitch.me/0110k011/count.svg"> 
+  <div align="right">
+    <img src="https://profile-counter.glitch.me/0110k011/count.svg"> 
   </div>
   </br>
-  <div>
+  <div align="center">
     ![Snake animation](https://github.com/0110k011/0110k011/blob/output/github-contribution-grid-snake.svg)
   </div>
 </div>
