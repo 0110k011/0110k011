@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
   </div>
   </br>
   <div align="center">
-    ![Snake animation](https://github.com/0110k011/0110k011/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/0110k011/0110k011/blob/output/github-contribution-grid-snake.svg)
   </div>
 </div>
