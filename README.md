@@ -18,8 +18,10 @@ You can click the Preview link to take a look at your changes.
 		<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0110k011&layout=compact&bg_color=60,E2E2E2,E8E8E8,FFFFFF">
 		<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=0110k011&count_private=true&show_icons=true&bg_color=60,E2E2E2,E8E8E8,FFFFFF&hide=prs,issues">
 	</div>
+	<!---
 	<div align="center">
 		<img src="https://github.com/0110k011/0110k011/blob/output/github-contribution-grid-snake.svg">
 	</div>
+	--->
 </div>
 
