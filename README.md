@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-- I’m currently study python and javascript
+- I’m currently developing with Java and Typescript
 - How to reach me gmateust@gmail.com
 
 
